@@ -1,0 +1,71 @@
+**********************************************
+				EASY SCATTER
+				
+Copyright © 2015 The Hedgehog Team
+http://www.thehedgehogteam.com/Forum/
+
+		the.hedgehog.team@gmail.com
+
+**********************************************
+
+Version 1.1.8
+==============
+Fixe particles System scaling, and compatibility with Unity 2017
+
+Version 1.1.7
+==============
+Fixe particles System scaling
+
+Version 1.1.6
+==============
+Fixe retina support on MAC
+
+Version 1.1.5
+==============
+A new option is available under adavanced option (override)to keep prefab setting (layer, tag etc..)
+
+Version 1.1.4
+==============
+- Scattering root are now clear in playmode.
+- You can enable/disable prefab preview in Paint tab ("show prefab preview" in preference tab)
+- Max value for size,Amount & flux are now configurable.
+
+Version 1.1.3
+==============
+- Fixe scattering when reference object is a prefab (The objects were always created in the center of the bush )
+
+Version 1.1.2
+==============
+- Add real prefab support to keep the linkg between the object and its prefab.
+You can enable or disable this option in the preference
+
+- Keep prefab orientation if no random option is selected
+
+- Reset action on tab Selection, reset value to prefab value.
+
+- Add an option to apply rotation relative to current rotation on tab Selection
+
+Version 1.1.1
+==============
+- Add Front & Back alignment for previous option
+- Displays an update request if you made a Get on a gameobject not a Root
+
+Version 1.1.0
+==============
+- Add slope filter on brush inspector.This allows you to filter the creaction of objects based on a slope angle
+- Add erase feature: Hold down shift key + right click.
+- Add global prefab setting to apply the Rotate/Scale parameters to all selected prefab.
+- Add quick scale/rotate after on last created object
+=> Keep mouse button down
+=> hold down crtl key
+=> move mouse up/down = scale
+=> move mouse right/left = rotate
+
+Version 1.0.1
+==============
+- Fixe error CS0246 at build time.
+
+Version 1.0.0
+==============
+-Initial release.
+
