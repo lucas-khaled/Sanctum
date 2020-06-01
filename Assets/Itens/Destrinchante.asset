@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c071d95526eb014c8a59aedca1055a1, type: 3}
+  m_Name: Destrinchante
+  m_EditorClassIdentifier: 
+  nome: Destrinchante
+  descricao: oloquinho meu
+  isItemMissao: 0
+  custoMoeda: 22
+  peso: 4
+  icone: {fileID: 21300000, guid: 578286b1ae4080340bad5646c94ad871, type: 3}
+  armaPlayer: 0
+  dano: 10
+  nivelMinimo: 0
+  famaMinima: 0
+  armaMesh: {fileID: 1840284432587782474, guid: db4ac68fdb37b8d40baafecf0be6153b,
+    type: 3}
