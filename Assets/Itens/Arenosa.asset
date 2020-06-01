@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c071d95526eb014c8a59aedca1055a1, type: 3}
+  m_Name: Arenosa
+  m_EditorClassIdentifier: 
+  nome: Arenosa
+  descricao: OLOCO
+  isItemMissao: 0
+  custoMoeda: 10
+  peso: 3
+  icone: {fileID: 21300000, guid: 052c3d20d76e06c4f8c526b83bb8f9c9, type: 3}
+  armaPlayer: 0
+  dano: 12
+  nivelMinimo: 2
+  famaMinima: 0
+  armaMesh: {fileID: -6676999494424471617, guid: db4ac68fdb37b8d40baafecf0be6153b,
+    type: 3}
