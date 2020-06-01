@@ -3,12 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Piso
-  - Inimigo
-  - Arvore
-  - Waypoint
-  - Girafa
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -18,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - Inimigo
-  - Player
-  - Interagivel
-  - Arvore
-  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
